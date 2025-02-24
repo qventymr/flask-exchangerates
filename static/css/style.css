@@ -1,0 +1,27 @@
+.content {
+    display: flex;
+    max-width: 750pt;
+}
+
+.btn-dark {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 0%;
+    position: absolute;
+    top: 915px;
+}
+
+.footer-text {
+    display: flex;
+    font-size: 10px;
+}
+
+#customMenu {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
